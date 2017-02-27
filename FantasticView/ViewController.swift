@@ -15,7 +15,7 @@ class ViewController: UIViewController
     {
         super.viewDidLoad()
         
-        let fantasticView = Fantastic(frame: self.view.bounds)
+        let fantasticView = PPFantasticViewByPa(frame: self.view.bounds)
         
         self.view.addSubview(fantasticView)
     }
