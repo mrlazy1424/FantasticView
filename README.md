@@ -1,3 +1,5 @@
 # FantasticView
 
-If you want to use the latest features of SVProgressHUD use normal external source dependencies.
+If you want to use the latest features of FantasticView use normal external source dependencies.
+
+## pod 'PPFantasticViewByPa'
